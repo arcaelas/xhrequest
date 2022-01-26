@@ -2,7 +2,7 @@
   "version": "1.8.0",
   "main": "./src/index.js",
   "name": "@arcaelas/xhrequest",
-  "description": "A tool for creating asynchronous requests in a light and simple way, even handlers can be attached.",
+  "description": "In addition to AJAX, FETCH, AXIOS and different request libraries, XHRequest allows you to create and use your own request drivers.",
   "scripts": {
     "start": "tsc --watch",
     "prepublishOnly": "tsc && npm version minor",
@@ -10,8 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/arcaelas/arcaelas/xhrequest",
-    "directory": "xhrequest"
+    "url": "git+ssh://github.com/Arcaelas-Insiders-ES/xhrequest.git"
   },
   "keywords": [
     "xhr",
