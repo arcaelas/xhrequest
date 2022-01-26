@@ -1,5 +1,5 @@
 {
-  "version": "1.10.0",
+  "version": "1.11.0",
   "main": "./src/index.js",
   "name": "@arcaelas/xhrequest",
   "description": "In addition to AJAX, FETCH, AXIOS and different request libraries, XHRequest allows you to create and use your own request drivers.",
